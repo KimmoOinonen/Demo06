@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*
+ * Copyright (C) Kimmo Oinonen
+ *
+ * This file is part of homework project in Object-Oriented
+ * and GUI Programming class in JAMK.
+ *
+ * Created: 1.2.2016
+ * Author: Kimmo Oinonen
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
